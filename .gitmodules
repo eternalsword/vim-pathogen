@@ -16,3 +16,6 @@
 [submodule "bundle/vim-css-syntax"]
 	path = bundle/vim-css-syntax
 	url = git://github.com/eternalsword/vim-css-syntax.git
+[submodule "bundle/vim-cpp"]
+	path = bundle/vim-cpp
+	url = git://github.com/eternalsword/vim-cpp.git
