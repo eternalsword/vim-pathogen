@@ -4,3 +4,6 @@
 [submodule "bundle/vim-scriptease"]
 	path = bundle/vim-scriptease
 	url = git://github.com/eternalsword/vim-scriptease.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git://github.com/eternalsword/vim-fugitive.git
