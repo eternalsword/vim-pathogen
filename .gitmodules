@@ -19,3 +19,6 @@
 [submodule "bundle/vim-cpp"]
 	path = bundle/vim-cpp
 	url = git://github.com/eternalsword/vim-cpp.git
+[submodule "bundle/vimux"]
+	path = bundle/vimux
+	url = git://github.com/eternalsword/vimux.git
