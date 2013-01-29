@@ -25,3 +25,6 @@
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
 	url = git://github.com/eternalsword/ultisnips.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git://github.com/eternalsword/vim-surround.git
