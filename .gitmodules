@@ -33,4 +33,4 @@
 	url = git://github.com/eternalsword/vim-easymotion.git
 [submodule "bundle/vim-scss-syntax"]
 	path = bundle/vim-scss-syntax
-	url = git@github.com:eternalsword/scss-syntax.vim.git
+	url = git://github.com/eternalsword/scss-syntax.vim.git
