@@ -31,9 +31,9 @@
 [submodule "bundle/vim-easymotion"]
 	path = bundle/vim-easymotion
 	url = git://github.com/eternalsword/vim-easymotion.git
-[submodule "bundle/vim-scss-syntax"]
-	path = bundle/vim-scss-syntax
-	url = git://github.com/eternalsword/scss-syntax.vim.git
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
 	url = git://github.com/eternalsword/vim-coffee-script.git
+[submodule "bundle/vim-haml"]
+	path = bundle/vim-haml
+	url = git://github.com/eternalsword/vim-haml.git
