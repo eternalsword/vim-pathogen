@@ -37,3 +37,6 @@
 [submodule "bundle/vim-haml"]
 	path = bundle/vim-haml
 	url = git://github.com/eternalsword/vim-haml.git
+[submodule "bundle/vim-blade"]
+	path = bundle/vim-blade
+	url = git://github.com/eternalsword/blade.vim.git
