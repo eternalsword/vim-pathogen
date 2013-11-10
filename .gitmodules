@@ -40,3 +40,6 @@
 [submodule "bundle/vim-blade"]
 	path = bundle/vim-blade
 	url = git://github.com/eternalsword/blade.vim.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = git://github.com/eternalsword/vim-airline
