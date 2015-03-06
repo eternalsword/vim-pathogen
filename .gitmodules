@@ -1,51 +1,51 @@
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
-	url = git://github.com/eternalsword/vim-sensible.git
+	url = https://github.com/theeternalsw0rd/vim-sensible.git
 [submodule "bundle/vim-scriptease"]
 	path = bundle/vim-scriptease
-	url = git://github.com/eternalsword/vim-scriptease.git
+	url = https://github.com/theeternalsw0rd/vim-scriptease.git
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
-	url = git://github.com/eternalsword/vim-fugitive.git
+	url = https://github.com/theeternalsw0rd/vim-fugitive.git
 [submodule "bundle/vim-javascript-syntax"]
 	path = bundle/vim-javascript-syntax
-	url = git://github.com/eternalsword/vim-javascript-syntax.git
+	url = https://github.com/theeternalsw0rd/vim-javascript-syntax.git
 [submodule "bundle/vim-css3-syntax"]
 	path = bundle/vim-css3-syntax
-	url = git://github.com/eternalsword/vim-css3-syntax.git
+	url = https://github.com/theeternalsw0rd/vim-css3-syntax.git
 [submodule "bundle/vim-css-syntax"]
 	path = bundle/vim-css-syntax
-	url = git://github.com/eternalsword/vim-css-syntax.git
+	url = https://github.com/theeternalsw0rd/vim-css-syntax.git
 [submodule "bundle/vim-cpp"]
 	path = bundle/vim-cpp
-	url = git://github.com/eternalsword/vim-cpp.git
+	url = https://github.com/theeternalsw0rd/vim-cpp.git
 [submodule "bundle/vimux"]
 	path = bundle/vimux
-	url = git://github.com/eternalsword/vimux.git
+	url = https://github.com/theeternalsw0rd/vimux.git
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
-	url = git://github.com/eternalsword/ultisnips.git
+	url = https://github.com/theeternalsw0rd/ultisnips.git
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
-	url = git://github.com/eternalsword/vim-surround.git
+	url = https://github.com/theeternalsw0rd/vim-surround.git
 [submodule "bundle/vim-easymotion"]
 	path = bundle/vim-easymotion
-	url = git://github.com/eternalsword/vim-easymotion.git
+	url = https://github.com/theeternalsw0rd/vim-easymotion.git
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
-	url = git://github.com/eternalsword/vim-coffee-script.git
+	url = https://github.com/theeternalsw0rd/vim-coffee-script.git
 [submodule "bundle/vim-haml"]
 	path = bundle/vim-haml
-	url = git://github.com/eternalsword/vim-haml.git
+	url = https://github.com/theeternalsw0rd/vim-haml.git
 [submodule "bundle/vim-blade"]
 	path = bundle/vim-blade
-	url = git://github.com/eternalsword/blade.vim.git
+	url = https://github.com/theeternalsw0rd/blade.vim.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
-	url = git://github.com/eternalsword/vim-airline
+	url = https://github.com/theeternalsw0rd/vim-airline
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
-	url = git://github.com/eternalsword/vim-colors-solarized.git
+	url = https://github.com/theeternalsw0rd/vim-colors-solarized.git
 [submodule "bundle/vim-colors-base16"]
 	path = bundle/vim-colors-base16
-	url = git://github.com/eternalsword/base16-vim
+	url = https://github.com/theeternalsw0rd/base16-vim
