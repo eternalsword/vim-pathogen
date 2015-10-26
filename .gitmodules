@@ -49,3 +49,6 @@
 [submodule "bundle/vim-colors-base16"]
 	path = bundle/vim-colors-base16
 	url = https://github.com/theeternalsw0rd/base16-vim
+[submodule "bundle/vim-brightscript"]
+	path = bundle/vim-brightscript
+	url = https://github.com/theeternalsw0rd/brightscript.vim
