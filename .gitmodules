@@ -7,9 +7,6 @@
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = https://github.com/theeternalsw0rd/vim-fugitive.git
-[submodule "bundle/vim-javascript-syntax"]
-	path = bundle/vim-javascript-syntax
-	url = https://github.com/theeternalsw0rd/vim-javascript-syntax.git
 [submodule "bundle/vim-css3-syntax"]
 	path = bundle/vim-css3-syntax
 	url = https://github.com/theeternalsw0rd/vim-css3-syntax.git
@@ -31,15 +28,6 @@
 [submodule "bundle/vim-easymotion"]
 	path = bundle/vim-easymotion
 	url = https://github.com/theeternalsw0rd/vim-easymotion.git
-[submodule "bundle/vim-coffee-script"]
-	path = bundle/vim-coffee-script
-	url = https://github.com/theeternalsw0rd/vim-coffee-script.git
-[submodule "bundle/vim-haml"]
-	path = bundle/vim-haml
-	url = https://github.com/theeternalsw0rd/vim-haml.git
-[submodule "bundle/vim-blade"]
-	path = bundle/vim-blade
-	url = https://github.com/theeternalsw0rd/blade.vim.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/theeternalsw0rd/vim-airline
@@ -52,3 +40,6 @@
 [submodule "bundle/vim-brightscript"]
 	path = bundle/vim-brightscript
 	url = https://github.com/theeternalsw0rd/brightscript.vim
+[submodule "bundle/vim-polyglot"]
+	path = bundle/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
