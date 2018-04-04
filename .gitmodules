@@ -46,3 +46,6 @@
 [submodule "bundle/vim-php-better-indentation"]
 	path = bundle/vim-php-better-indentation
 	url = https://github.com/2072/PHP-Indenting-for-VIm.git
+[submodule "bundle/vim-blade"]
+	path = bundle/vim-blade
+	url = https://github.com/theeternalsw0rd/vim-blade.git
